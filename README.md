@@ -1,2 +1,2 @@
-# semantic-gateway
-Semantic Gateway for Dataverse and other applications
+# Semantic Metaverse
+Semantic Metaverse for Dataverse applications
